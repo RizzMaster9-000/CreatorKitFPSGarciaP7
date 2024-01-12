@@ -1,2 +1,1 @@
-# CreatorKitFPSGarciaP7
-CREATING A REPO FOR MY CREATOR KIT FPS GAME!!! GRAHH!!!!!
+actually nvm i don't wanna read this
