@@ -48,8 +48,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   triggerType: 0
   weaponType: 0
-  fireRate: 0.001
-  reloadTime: 0.1
+  fireRate: 0.35
+  reloadTime: 0.57
   clipSize: 1000
   damage: 3
   ammoType: 0
